@@ -1,8 +1,8 @@
 .DS_Store
 .idea/
-data/
-deploy/
-dictionary
+/data
+/deploy
+/dictionary
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
